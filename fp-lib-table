@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name UPA2815T1S-E2-AT)(type KiCad)(uri ${KIPRJMOD}/UPA2815T1S-E2-AT/UPA2815T1S-E2-AT.pretty)(options "")(descr ""))
+  (lib (name SMBJ45CA)(type KiCad)(uri ${KIPRJMOD}/SMBJ45CA/SMBJ45CA.pretty)(options "")(descr ""))
+  (lib (name PJ-002B)(type KiCad)(uri ${KIPRJMOD}/PJ-002B)(options "")(descr ""))
+)

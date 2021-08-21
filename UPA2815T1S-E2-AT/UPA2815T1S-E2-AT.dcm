@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP UPA2815T1S-E2-AT
+D Pチャンネル 30V 21A（Tc） 1.5W（Ta） 面実装 8-HWSON（3.3x3.3）
+F https://akizukidenshi.com/download/ds/renesas/UPA2815T1S.pdf
+$ENDCMP
+#
+#End Doc Library

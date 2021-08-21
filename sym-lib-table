@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name SQJ951EP)(type Legacy)(uri ${KIPRJMOD}/SQJ951EP/SQJ951EP.lib)(options "")(descr ""))
+  (lib (name uPA2815T1S-E2-AT)(type Legacy)(uri ${KIPRJMOD}/uPA2815T1S/uPA2815T1S-E2-AT.lib)(options "")(descr ""))
+  (lib (name UPA2815T1S-E2-AT)(type Legacy)(uri ${KIPRJMOD}/UPA2815T1S-E2-AT/UPA2815T1S-E2-AT.lib)(options "")(descr ""))
+  (lib (name PJ-002B)(type Legacy)(uri ${KIPRJMOD}/PJ-002B/PJ-002B.lib)(options "")(descr ""))
+)
